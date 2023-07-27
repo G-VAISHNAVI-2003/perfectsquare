@@ -10,4 +10,3 @@ def pairSum():
 
     return -1
 pairSum()
-5
